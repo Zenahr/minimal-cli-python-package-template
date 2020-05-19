@@ -4,5 +4,6 @@
 """bootstrap.stuff: stuff module within the bootstrap package."""
 
 
-class Stuff(object):
-    pass
+class Main(object):
+    x = 1
+    y = 2
